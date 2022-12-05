@@ -3,7 +3,7 @@ import java.io.*;
 
 class Client
 {
-    // initialize socket and input output streams
+    // Atributos
     private Socket socket = null;
     private BufferedReader in = null;
     private DataOutputStream out = null;
